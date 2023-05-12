@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hello World! Eu sou Lucas Borges, estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> atualmente estudando na Faculdade de Administração e Negócios (FAN). Aprimorando os conhecimentos adquiridos na faculdade através de cursos como o de <strong>FullStack da One Bit Code</strong> e da <strong>Oracle + Alura</strong>. Estou a busca de oportunidades para atuar na área. 
+  Hello World! Eu sou Lucas Borges, estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> atualmente estudando na Faculdade de Administração e Negócios (FAN). Aprimorando os conhecimentos adquiridos na faculdade através de cursos como o de <strong>FullStack PRO da One Bit Code</strong> e da <strong>Oracle + Alura</strong>.
 </p>
 
 <p align="left">
@@ -39,6 +39,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,vscode&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,vscode,typescript,scss&perline=5" />
   </a>
 </p>
