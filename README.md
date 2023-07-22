@@ -12,11 +12,7 @@
   💌 Send me a menssage: ⤵️
 </p>
 
-<div align="left">
-  <a href="https://www.instagram.com/lucasbrgs22/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-b222d2?style=for-the-badge&logo=Instagram&logoColor=FFF"/>
-  </a>
-  
+<div align="left"> 
   <a href="https:https://www.linkedin.com/in/lucas-brgs/">
     <img src="https://img.shields.io/badge/-Linkedin-b222d2?style=for-the-badge&logo=Linkedin&logoColor=FFF"/>
   </a>
