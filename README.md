@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Languages: <strong>JavaScript</strong>
+  🦄 Languages: <strong>JavaScript, Laravel, TypeScript, React, NodeJS, PL/SQL</strong>
 </p>
 
 <p align="left">
